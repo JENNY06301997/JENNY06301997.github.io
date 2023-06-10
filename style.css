@@ -1,0 +1,50 @@
+h1 {
+    color: rgb(204, 172, 31);
+    font-size: 25px;
+}
+
+/* h1{color: darkblue; font-size: 15px;} */
+
+h2 {
+    color: hsl(209, 27%, 34%);
+    /*文字顏色*/
+    font-size: 15px;
+}
+
+h2 {
+    color: rgba(204, 0, 255, 0.473);
+    font-size: 15px;
+    /*fff=ffffff可簡寫*/
+}
+
+/* :root {font-size: 30px}
+h2 {font-size: 10rem} */
+
+#news {
+    color: rgb(12, 163, 12);
+    font-size: 32px;
+}
+
+.title {
+    color: #000;
+    font-size: 32px;
+}
+
+#red {
+    color: red;
+}
+
+.text-lg {
+    font-size: 60px;
+    background: rgb(214, 236, 9);
+}
+.text-blue {
+    color: blue;
+}
+.text-yello {
+    color: yellow;  /*後者優先*/
+}
+h3 {color:aqua ;}
+h3:hover {
+    color: #000;
+}
